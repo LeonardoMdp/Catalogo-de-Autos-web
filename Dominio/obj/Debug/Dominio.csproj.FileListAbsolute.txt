@@ -1,0 +1,9 @@
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\bin\Debug\Dominio.exe.config
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\bin\Debug\Dominio.exe
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.exe
+C:\Users\Adricum\source\repos\AutoWebApplication\Dominio\obj\Debug\Dominio.pdb
